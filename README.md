@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, seja bem vindo!</h1>
+<h1 align="left">Olá 👋, seja bem vindo(a)!</h1>
 
 <h3 align="center">Aqui onde deixo alguns dos meus desenvolvimentos. Fique à vontade.</h3>
 
