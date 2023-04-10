@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, seja bem vindo(a)!</h1>
 
-<h3 align="center">Aqui onde deixo alguns dos meus desenvolvimentos. Fique à vontade.</h3>
+<h3 align="center">Aqui é onde deixo alguns dos meus desenvolvimentos. Fique à vontade.</h3>
 
 <br />
 <h3 align="left">Linguagens e Ferramentas:</h3>
